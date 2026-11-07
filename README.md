@@ -38,3 +38,7 @@ Do not attach a custom domain before its DNS record is ready; GitHub would redir
 ## Assets
 
 City artwork was generated for this design. Community photo reused from CanadianCloud/awsday.github.io, public/Instagram/ig3.jpg, and captioned as a past Canadian community event. Nunito is licensed under the SIL Open Font License; see assets/OFL.txt.
+
+## Site credits
+
+The footer identifies CPCA as the site funder and HackerRivals as the site administrator, linking to canadiancloud.org and hackerrivals.com. CPCA logo is reused from the original AWS Day website; the HackerRivals logo is from https://hackerrivals.com/assets/images/hackerrivals-logo.png. Both are stored in `assets/`. The header city picker is an inline dropdown with keyboard navigation, Escape and outside-click dismissal.
