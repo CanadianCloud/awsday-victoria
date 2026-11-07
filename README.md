@@ -18,7 +18,7 @@ No framework, package installation, build step, tracking or backend is required.
 
 `index.html` contains editable, accessible page content and dialog panels. Shared appearance lives in `styles.css`; `app.js` handles navigation and native dialogs. Images and locally hosted fonts live in `assets/`. All paths are relative, so the site also works under the GitHub project path.
 
-Dates, venue, speakers and programme are deliberately unconfirmed. The updates button links visitors to the existing CanadianCloud LinkedIn announcements; it does not claim to collect email subscriptions. Volunteer, speaker and sponsorship enquiries open the visitor’s email app addressed to the published info@awsday.ca contact.
+Dates, venue, speakers and programme are deliberately unconfirmed. Every Get updates link opens the Victoria group's events page: https://www.meetup.com/aws-sbg-at-university-of-victoria/. Volunteer, speaker and sponsorship enquiries open the visitor’s email app addressed to the published info@awsday.ca contact.
 
 To publish confirmed details, replace the corresponding panel and hero copy, and point the updates CTA at the confirmed registration URL. Update canonical, social metadata, sitemap and CNAME if the domain changes.
 
